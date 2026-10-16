@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "initial-placeholder-v1",
+  "updatedAt": "2026-10-16T00:00:00.000Z",
+  "profile": {
+    "name": "你的姓名",
+    "title": "你的目标职位 / 身份",
+    "tagline": "在这里填写一句真实的自我介绍。",
+    "bio": "个人简介尚未填写。请补充真实的学习经历、兴趣和正在探索的方向。",
+    "education": "教育信息尚未填写",
+    "email": "",
+    "githubUrl": ""
+  },
+  "skills": [],
+  "projects": []
+}

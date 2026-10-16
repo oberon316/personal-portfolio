@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "release-13b03682-204b-4c07-bbf0-acd63a151f9b",
+  "updatedAt": "2026-10-16T07:34:43.214Z",
+  "profile": {
+    "name": "许圣哲",
+    "title": "计算机科学与技术本科生",
+    "tagline": "关注计算机视觉，探索图像与视频增强中的物理先验与深度学习方法。",
+    "bio": "我是许圣哲，就读于大连海事大学计算机科学与技术专业，关注计算机视觉、图像与视频增强及图像复原。围绕水下视觉问题，开展视频增强基线复现、物理先验建模与多版本实验，使用 Python、PyTorch、OpenCV 和 MATLAB 完成处理与验证。曾参与船舶智能监控项目的方案选型、实验执行与结果整理，并以第四发明人身份参与一项水下图像增强发明专利申请。",
+    "education": "大连海事大学｜计算机科学与技术｜本科\n2023.09 入学\n前 6 学期必修及限选 GPA：3.77/5.00；专业排名：13/70。\n主修课程：算法设计与分析（94）、信息系统分析与设计（94）、人工智能（92）、数据结构（90）、数据库原理（90）、软件工程（90）。\n英语：CET-6，449 分。",
+    "email": "xsz@dlmu.edu.cn",
+    "githubUrl": "",
+    "avatar": {
+      "kind": "public",
+      "url": "/uploads/edb29c7c-48e3-4159-965c-05b4246a03f9.webp",
+      "name": "avatar.webp"
+    },
+    "resume": {
+      "kind": "public",
+      "url": "/uploads/bad354e1-ab4a-44ec-b556-04a886ea3d7b.pdf",
+      "name": "许圣哲简历_公开版.pdf"
+    }
+  },
+  "skills": [
+    {
+      "id": "skill-resume-1",
+      "name": "Python",
+      "category": "编程语言",
+      "proficiency": "用于水下视频增强研究中的实验与处理流程",
+      "order": 0
+    },
+    {
+      "id": "skill-resume-2",
+      "name": "C/C++",
+      "category": "编程语言",
+      "proficiency": "专业技能：C/C++",
+      "order": 1
+    },
+    {
+      "id": "skill-resume-3",
+      "name": "Java",
+      "category": "编程语言",
+      "proficiency": "专业技能：Java",
+      "order": 2
+    },
+    {
+      "id": "skill-resume-4",
+      "name": "PyTorch",
+      "category": "深度学习与计算机视觉",
+      "proficiency": "用于视频增强基线和网络分支实验",
+      "order": 3
+    },
+    {
+      "id": "skill-resume-5",
+      "name": "OpenCV",
+      "category": "深度学习与计算机视觉",
+      "proficiency": "用于图像预处理与视觉实验",
+      "order": 4
+    },
+    {
+      "id": "skill-resume-6",
+      "name": "MATLAB",
+      "category": "科研与实验工具",
+      "proficiency": "水下视觉研究项目使用的工具",
+      "order": 5
+    },
+    {
+      "id": "skill-resume-7",
+      "name": "Linux",
+      "category": "科研与实验工具",
+      "proficiency": "水下视觉研究项目使用的环境",
+      "order": 6
+    },
+    {
+      "id": "skill-resume-8",
+      "name": "图像与视频增强",
+      "category": "研究方向",
+      "proficiency": "关注水下图像增强、视频增强与图像复原",
+      "order": 7
+    }
+  ],
+  "projects": [
+    {
+      "id": "underwater-video-enhancement",
+      "title": "水下视频增强与物理先验建模",
+      "period": "2025 年起",
+      "summary": "围绕水下视频增强开展基线构建、跨帧恢复和物理先验建模实验，结合图像预处理与训练监控探索方法效果。",
+      "role": "基于 UVEB/UVE-Net 构建视频增强 baseline，采用动态卷积实现中间帧引导的跨帧恢复；引入 Sea-thru 物理模型与 UNet 估计分支，建模透射率、背景光和散射；模块化白平衡、CLAHE、Gamma 预处理，加入梯度监控和动态损失权重。",
+      "highlights": [
+        "构建视频增强 baseline，完成多版本实验。",
+        "引入 Sea-thru 物理模型与 UNet 估计分支，建模透射率、背景光和散射。"
+      ],
+      "techStack": [
+        "Python",
+        "PyTorch",
+        "OpenCV",
+        "MATLAB",
+        "Linux"
+      ],
+      "repoUrl": "",
+      "demoUrl": "",
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "ship-intelligent-monitoring",
+      "title": "禹迹守望——船舶一体化智能监控系统",
+      "period": "2024.11—2025.12",
+      "summary": "面向驾驶台、机舱及甲板等船舶关键场景，结合计算机视觉与深度学习，对视频流中的人员行为及险情目标进行动态监测，并结合自动预警辅助船舶安全管理。",
+      "role": "项目成员。参与图像自动标注分类模型、GAN 数据增强模型、SE-CNN 等方法的方案选型与任务匹配；参与梳理数据标注、样本增强与模型识别之间的流程衔接；主要参与实验执行、结果整理和阶段性材料准备。",
+      "highlights": [
+        "团队获校级大学生创新创业训练计划立项。",
+        "参与实验执行、结果整理和阶段性材料准备。"
+      ],
+      "techStack": [
+        "计算机视觉",
+        "深度学习",
+        "图像自动标注",
+        "GAN",
+        "SE-CNN"
+      ],
+      "repoUrl": "",
+      "demoUrl": "",
+      "visible": true,
+      "order": 1
+    }
+  ]
+}
