@@ -1,6 +1,6 @@
 # 个人展示网站产品需求文档（PRD）
 
-> 当前进度：A-E 本地开发已完成；首次静态内容已根据本人提供的简历整理，含公开姓名、学生身份、教育、技能、两项项目、头像与公开版 PDF。未提供的指标和链接留空；原 PDF 中的手机号、出生年月、性别及政治面貌不进入公开下载版。GitHub 源码仓库为 https://github.com/oberon316/personal-portfolio，Cloudflare 正式部署尚未执行。详见 README 与 docs/verification/FIRST_RELEASE.md；开发阶段验收见 docs/verification/CDE.md。
+> 当前进度：A-E 本地开发已完成；首次静态内容已根据本人提供的简历整理，含公开姓名、学生身份、教育、技能、两项项目、头像与公开版 PDF。未提供的指标和链接留空；原 PDF 中的手机号、出生年月、性别及政治面貌不进入公开下载版。源码已推送至 https://github.com/oberon316/personal-portfolio 的 main 分支，Cloudflare 正式部署尚未执行。详见 README、docs/verification/FIRST_RELEASE.md 与 docs/verification/GITHUB_UPLOAD.md；开发阶段验收见 docs/verification/CDE.md。
 
 版本：v1.0 草稿；日期：2026-10-16。个人资料、项目描述、头像和简历由网站所有者补充，不虚构经历。
 

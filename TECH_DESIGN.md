@@ -1,6 +1,6 @@
 # 个人展示网站技术设计文档
 
-> A-E 实现状态（2026-10-16）：内容管理、IndexedDB 文件、头像/PDF/封面、完整备份导入导出、静态发布包、响应式与操作反馈均已实现。41 项自动测试通过，并完成真实浏览器恢复与隔离静态构建验收。Node 版本为 24.13.1，代码启用 strict。GitHub 源码仓库为 https://github.com/oberon316/personal-portfolio；Cloudflare 正式上线尚未执行。
+> A-E 实现状态（2026-10-16）：内容管理、IndexedDB 文件、头像/PDF/封面、完整备份导入导出、静态发布包、响应式与操作反馈均已实现。41 项自动测试通过，并完成真实浏览器恢复与隔离静态构建验收。Node 版本为 24.13.1，代码启用 strict。源码已推送至 https://github.com/oberon316/personal-portfolio 的 main 分支；Cloudflare 正式上线尚未执行。上传验证见 docs/verification/GITHUB_UPLOAD.md。
 
 > 首次内容准备（2026-10-16）：实际通过后台保存资料和文件、导出完整备份及发布 ZIP，并将发布内容合并到 public。公开版包含 8 项技能、2 个项目和 2 个静态文件引用；私人简历原件及备份留在项目仓库外。记录见 docs/verification/FIRST_RELEASE.md。
 

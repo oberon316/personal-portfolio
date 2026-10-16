@@ -2,7 +2,7 @@
 
 React + TypeScript + Vite 纯前端个人展示网站。A-E 开发已完成：个人信息、教育、技能、项目详情、联系方式、后台管理、头像与 PDF 简历、项目封面、完整备份、静态发布包及响应式布局。使用普通 CSS，没有服务器、数据库服务或新增运行时依赖。
 
-已根据网站所有者提供的简历完成首次静态内容准备：姓名、学生身份、175 字介绍、教育、公开邮箱、8 项技能、2 个项目、原证件照及隐去四项信息的公开版 PDF 已合并到 public。项目未提供的指标和链接留空。详见 [首次静态内容验证](docs/verification/FIRST_RELEASE.md)。源码仓库：[oberon316/personal-portfolio](https://github.com/oberon316/personal-portfolio)。Cloudflare Pages 尚未部署，暂无正式网站地址。
+已根据网站所有者提供的简历完成首次静态内容准备：姓名、学生身份、175 字介绍、教育、公开邮箱、8 项技能、2 个项目、原证件照及隐去四项信息的公开版 PDF 已合并到 public。项目未提供的指标和链接留空。详见 [首次静态内容验证](docs/verification/FIRST_RELEASE.md)。源码已上传至 [oberon316/personal-portfolio](https://github.com/oberon316/personal-portfolio) 的 main 分支，见 [上传验证记录](docs/verification/GITHUB_UPLOAD.md)。Cloudflare Pages 尚未部署，暂无正式网站地址。
 
 ## 启动
 
